@@ -4,11 +4,8 @@
     "description": "e-commerce",
     "main": "server.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "node backend/server"
     },
     "author": "JustFlow",
-    "license": "MIT",
-    "dependencies": {
-        "express": "^4.17.1"
-    }
+    "license": "MIT"
 }
